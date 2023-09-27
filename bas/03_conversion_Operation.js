@@ -18,5 +18,6 @@ console.log(booleanIsLoggedIn)
 let someNumber=33
 let stringNumber=String(someNumber)
 // numbers into string type
+
 console.log(stringNumber)
 console.log(typeof stringNumber)
